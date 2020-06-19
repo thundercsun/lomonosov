@@ -1,4 +1,4 @@
-package com.thundercsun.lomonosov
+package com.thundercsun.lomonosovv
 
 import org.junit.Test
 
